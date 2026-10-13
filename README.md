@@ -1,14 +1,3 @@
-# Credit Card Transaction & Fraud Analysis Dashboard 
-![preview image](/<img <img <img width="1083" height="607" alt="Screenshot 2026-10-13 at 1 31 00 PM" src="https://github.com/user-attachments/assets/551e5335-db89-4d4d-9c98-f8ec8c432221" />
- />
-/>
-)
-
-![preview image](/<img <img <img width="1083" height="607" alt="Screenshot 2026-10-13 at 1 30 26 PM" src="https://github.com/user-attachments/assets/cc9c5436-037e-4d08-ab22-d7f2e3d399d8" />
- />
-/>
-)
-
 # Credit Card Transaction & Fraud Analysis
 
 **PostgreSQL + Power BI** | 250K transactions | 25K customers | 32K cards | 500 merchants
@@ -91,8 +80,17 @@ Relationships are one-to-many from customer, card and merchant into transaction.
 ## Dashboard
 
 **Page 1: Transaction Overview.** KPI cards (customers, active cards, active merchants, transactions, total amount, average transaction), transaction status, payment method, account type, gender, merchant category, and monthly and yearly trends. Slicers: age category, card type, year and quarter.
+![preview image](/<img <img <img width="1083" height="607" alt="Screenshot 2026-10-13 at 1 30 26 PM" src="https://github.com/user-attachments/assets/cc9c5436-037e-4d08-ab22-d7f2e3d399d8" />
+ />
+/>
+)
 
 **Page 2: Fraud Report.** Fraud attempts, successful fraud, international vs domestic fraud, fraud amount, average fraud amount and fraud rate; fraud by card type, payment method and reason; monthly and yearly trends.
+![preview image]
+(/<img <img <img width="1083" height="607" alt="Screenshot 2026-10-13 at 1 31 00 PM" src="https://github.com/user-attachments/assets/551e5335-db89-4d4d-9c98-f8ec8c432221" />
+ />
+/>
+)
 
 ### Transaction Overview
 ![Transaction Overview dashboard](screenshots/overview.png)
