@@ -152,4 +152,4 @@ Active Merchants = CALCULATE(DISTINCTCOUNT('public merchant'[merchant_id]),
 
 ## Author
 
-**Abhay**, aspiring data analyst · [GitHub](#) · [LinkedIn](#)
+**Abhay**, aspiring data analyst · [GitHub](abhay-22coder/credit-card-fraud-analysis-sql-powerbi: End-to-end credit card fraud & transaction analysis on 250K transactions using PostgreSQL and Power BI — fraud drivers, credit risk, merchant and customer insights.) · [LinkedIn](www.LinkedIn.com/in/abhay-maurya-312528412)
