@@ -1,3 +1,14 @@
+# Credit Card Transaction & Fraud Analysis Dashboard 
+![preview image](/<img <img <img width="1083" height="607" alt="Screenshot 2026-10-13 at 1 31 00 PM" src="https://github.com/user-attachments/assets/551e5335-db89-4d4d-9c98-f8ec8c432221" />
+ />
+/>
+)
+
+![preview image](/<img <img <img width="1083" height="607" alt="Screenshot 2026-10-13 at 1 30 26 PM" src="https://github.com/user-attachments/assets/cc9c5436-037e-4d08-ab22-d7f2e3d399d8" />
+ />
+/>
+)
+
 # Credit Card Transaction & Fraud Analysis
 
 **PostgreSQL + Power BI** | 250K transactions | 25K customers | 32K cards | 500 merchants
