@@ -36,7 +36,6 @@ An end-to-end analysis of a credit card portfolio: schema design and data cleani
 
 - **PostgreSQL**: schema design, constraints, cleaning, analysis (CTEs, window functions, `FILTER`, subqueries)
 - **Power BI**: data model, DAX measures, 2-page interactive report
-- **Python (pandas)**: used only to cross-check SQL and DAX results
 
 ---
 
